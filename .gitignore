@@ -1,0 +1,9 @@
+node_modules/
+.env
+.idea
+*.iml
+.DS_Store
+ethereum/build
+ui/node_modules
+ui/.idea
+
